@@ -5,7 +5,7 @@ import { Star, ChevronLeft, ChevronRight, User, Quote } from 'lucide-vue-next';
 // Données
 const testimonials = [
   {
-    name: 'Sophie Martin',
+    name: 'Valérie de Touzalin',
     image: '', 
     content: 'MOON SERVICES efficace et toujours irréprochable. Un vrai gain de temps pour notre agence LAFORET. Nous recommandons sans hésiter !',
     rating: 5,
