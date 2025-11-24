@@ -48,8 +48,8 @@ const engagements = [
     title: "Comportement écoresponsable",
     image: PhotoEco,
     list: [
-      "Produits écologiques certifiés",
-      "Matériaux réutilisables et durables",
+      "Utilisation de produits écologiques et certifiés",
+      "Utilisation de matériaux réutilisables",
       "Personnel formé à l’éconettoyage",
       "Optimisation des déplacements",
     ],
@@ -60,29 +60,30 @@ const engagements = [
     list: [
       "Suivi des interventions en temps réel",
       "Rapports numériques instantanés",
-      "Traçabilité et contrôle qualité",
-      "Espace client dédié",
+      "Contrôle qualité",
+      "Gestion des clients",
+      "Génération des devis et factures"
     ],
   },
   {
     title: "Transparence totale",
     image: photo2,
-    text: "Fini les zones d'ombre. Nous garantissons un suivi rigoureux, des devis clairs et une communication proactive à chaque étape de notre collaboration.",
+    text: "Nous garantissons un suivi rigoureux et transparent pour des prestations toujours à la hauteur de vos exigences.",
   },
   {
     title: "Flexibilité & Sur-mesure",
     image: photo1,
-    text: "Chaque immeuble est unique. Nous adaptons nos horaires, nos fréquences de passage et nos méthodes pour coller parfaitement à vos contraintes.",
+    text: "Nous adaptons nos prestations pour vous offrir un service sur mesure, flexible et parfaitement ajusté à vos attentes.",
   },
   {
     title: "Garantie Satisfaction",
     image: photo4,
-    text: "Votre satisfaction n'est pas une option. Moon Services s’engage à repasser gratuitement si une prestation ne correspond pas au cahier des charges.",
+    text: "Votre satisfaction est notre priorité, MOON SERVICES s’engage donc à garantir votre satisfaction en assurant un service de nettoyage rigoureux, efficace et adapté à vos besoins.Ò",
   },
   {
     title: "Experts Qualifiés",
     image: photoPersonnel,
-    text: "Nos équipes ne sont pas de simples intervenants. Ils sont formés, équipés et sensibilisés à la sécurité et à la discrétion requise dans vos locaux.",
+    text: "Notre personnel est formé aux meilleures pratiques pour garantir un nettoyage efficace et professionnel.",
   },
 ];
 </script>

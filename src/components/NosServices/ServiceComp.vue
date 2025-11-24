@@ -80,7 +80,7 @@ const services = [
   { title: "Nettoyage de locaux professionnels", image: bureauImage, items: ["Dépoussiérage et nettoyage des surfaces", "Désinfection des zones de contacts", "Détartrage et entretien des sanitaires et des espaces de cuisine", "Vidage des corbeilles"] },
   { title: "Nettoyage de remise en état", image: photoBur, items: ["Vitrines", "Façades", "Vérandas"], position: 'center-calc' },
   { title: "Entretien vitreries", image: vitrerieImage, items: ["Nettoyage complet des vitres intérieures et extérieures", "Lavage des vitrines, baies vitrées et portes-fenêtres", "Nettoyage des encadrements, rebords et joints", "Fréquences d’intervention selon vos besoins : ponctuelle ou régulière"], position: 'center-calc' },
-  { title: "Remplacement de gardien", image: photoGardien, items: ["Entretien des parties communes", "gestion des containers", "Gestion du courrier et des colis", "Surveillance des installations et accueil des résidents", "Coordination avec les prestataires extérieurs", "Archivage sécurisé"], position: 'center-calc' },
+  { title: "Remplacement de gardien", image: photoGardien, items: ["Entretien des parties communes", "Gestion des containers", "Gestion du courrier et des colis", "Surveillance des installations et accueil des résidents", "Coordination avec les prestataires extérieurs", "Archivage sécurisé"], position: 'center-calc' },
 ];
 
 const sections = ref([]);
